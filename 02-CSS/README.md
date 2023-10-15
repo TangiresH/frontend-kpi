@@ -29,3 +29,36 @@
 
 
 ____________________________________________________________________________________________________________
+
+
+<h3>Звіт до завдання 1.</h3>
+
+1. Створив таблицю, а також додав властивості CSS до неї. Встановив колір #108f8f для першого рядка, а також колір #f5f510 для другого. 
+
+2. Таблицю реалізував так, щоб при наведені курсора на 1 і 2 рядки, колір рядка змінювався на протилежний. Колір шрифту також змінюється на протилежний:
+
+* Стан таблиці, коли курсор не наводиться на ню.
+
+![Зображення1](https://github.com/TangiresH/frontend-kpi/blob/main/02-CSS/screenshots/image1.png)
+
+* Стан таблиці, коли курсор наводиться на другий рядок.
+
+![Зображення2](https://github.com/TangiresH/frontend-kpi/blob/main/02-CSS/screenshots/image2.png)
+
+* Стан таблиці, коли курсор наводиться на перший рядок таблиці.
+
+![Зображення3](https://github.com/TangiresH/frontend-kpi/blob/main/02-CSS/screenshots/image3.png)
+
+
+<h3>Звіт до завдання 2.</h3>
+
+
+Створив зображення шестерні відповідно до свого варіанту. 
+
+За допомогою <strong>position</strong>:
+
+![Зображення4](https://github.com/TangiresH/frontend-kpi/blob/main/02-CSS/screenshots/position.png)
+
+За допомогою <strong>transform</strong>:
+
+![Зображення5](https://github.com/TangiresH/frontend-kpi/blob/main/02-CSS/screenshots/transform.png)
