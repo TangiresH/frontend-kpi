@@ -8,6 +8,22 @@
 
 ____________________________________________________________________________________________________
 
+1. Інпут без введеного тексту:
 
 ![Зображення1](https://github.com/TangiresH/frontend-kpi/blob/main/03-DOM/screenshots/image1.png)
 
+2. Користувач вводить текст: 
+
+![Зображення2](https://github.com/TangiresH/frontend-kpi/blob/main/03-DOM/screenshots/image2.png)
+
+3. Після натискання кнопки, текст з'являється у списку вище. Інпут очищений.
+
+![Зображення3](https://github.com/TangiresH/frontend-kpi/blob/main/03-DOM/screenshots/image3.png)
+
+4. Введу текст для перевірки того, чи відбувається зсув інпута та кнопки після додавання тексту до списку вище.
+
+![Зображення4](https://github.com/TangiresH/frontend-kpi/blob/main/03-DOM/screenshots/image4.png)
+
+5. Валідація на те, щоб було неможливо додати порожній інпут у список.
+
+![Зображення5](https://github.com/TangiresH/frontend-kpi/blob/main/03-DOM/screenshots/image5.png)
