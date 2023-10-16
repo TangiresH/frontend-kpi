@@ -22,3 +22,19 @@
 * Валідація має бути максимально простою.
 
 ________________________________________________________________________________
+
+1. Інпути без введеного тексту:
+
+![Зображення1](https://github.com/TangiresH/frontend-kpi/blob/main/04-DOM-ADVANCED/screenshots/image1.png)
+
+2. Інпут із введеними даними: 
+
+![Зображення2](https://github.com/TangiresH/frontend-kpi/blob/main/04-DOM-ADVANCED/screenshots/image2.png)
+
+3. При натисканні на кнопку <strong>"Додати"</strong>, контакти додаються, а інпути стають очищеними. 
+
+![Зображення3](https://github.com/TangiresH/frontend-kpi/blob/main/04-DOM-ADVANCED/screenshots/image3.png)
+
+4. Додам декілька контактів для перевірки того, чи відбувається зсув інпута та кнопки після додавання тексту до списку вище.
+
+![Зображення4](https://github.com/TangiresH/frontend-kpi/blob/main/04-DOM-ADVANCED/screenshots/image4.png)
