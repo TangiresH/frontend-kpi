@@ -21,3 +21,7 @@
 При цьому начинки можна додати кілька або не бути зовсім.
 
 _____
+
+<h3>Скріншот виконаного завдання:</h3>
+
+![Зображення1](https://github.com/TangiresH/frontend-kpi/blob/main/07-OOP-PRACTICE/screenshots/image1.png)
