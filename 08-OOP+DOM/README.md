@@ -38,3 +38,18 @@ navItems.indexOf(active);
 ```
 
 ____
+
+<h3>Виконане завдання.</h3>
+
+Коли клікаєш на будь-який таб, показується відповідне боді. Колір його заповнення - жовтий.
+
+Результат роботи:
+
+* Клік по першому табу: 
+![Зображення1](https://github.com/TangiresH/frontend-kpi/blob/main/08-OOP%2BDOM/screenshots/image1.png)
+
+* Клік по другому табу: 
+![Зображення2](https://github.com/TangiresH/frontend-kpi/blob/main/08-OOP%2BDOM/screenshots/image2.png)
+
+* Клік по третьому табу:
+![Зображення3](https://github.com/TangiresH/frontend-kpi/blob/main/08-OOP%2BDOM/screenshots/image3.png)
