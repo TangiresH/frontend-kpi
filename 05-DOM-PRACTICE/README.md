@@ -18,3 +18,18 @@
 
 ________________________________________________________________
 
+1. to-do-list працює. Кнопка <strong>"Delete"</strong> додана. 
+
+![Зображення1](https://github.com/TangiresH/frontend-kpi/blob/main/05-DOM-PRACTICE/screenshots/image1.png)
+
+2. Для перевірки правильної роботи кнопки <strong>"Delete"</strong>, видалю пункт "Task2" - все працює. 
+
+![Зображення2](https://github.com/TangiresH/frontend-kpi/blob/main/05-DOM-PRACTICE/screenshots/image2.png)
+
+3. При натисканні на елемент списку будь-де на сторінці, елемент виділяється зеленим кольором.
+
+![Зображення3](https://github.com/TangiresH/frontend-kpi/blob/main/05-DOM-PRACTICE/screenshots/image3.png)
+
+4. При повторному виділенні, підкреслення зникає. 
+
+![Зображення4](https://github.com/TangiresH/frontend-kpi/blob/main/05-DOM-PRACTICE/screenshots/image4.png)
