@@ -33,3 +33,23 @@ ____
 Якщо повторно клікнути по будь-якому з пунктів, підкреслення зеленим кольором зникне.
 
 ![Зображення](https://github.com/TangiresH/frontend-kpi/blob/main/10-REST-HTTP/screenshots/image5.png)
+
+3. Під час додавання пункту "test task" до Todo list, сервер повертає код 201. 
+
+```
+HTTP 201 Created - це статус відповіді, який вказує на успішне виконання запиту і створення ресурсу. Новий ресурс, або опис і посилання на новий ресурс, фактично створюються до того, як відповідь відправляється, і новостворені елементи повертаються в тілі повідомлення, розташованому або за URL-адресою запиту, або за URL-адресою, вказаною в заголовку Location.
+```
+
+![Зображення](https://github.com/TangiresH/frontend-kpi/blob/main/10-REST-HTTP/screenshots/image6.png)
+
+![Зображення](https://github.com/TangiresH/frontend-kpi/blob/main/10-REST-HTTP/screenshots/image7.png)
+
+Тепер спробуємо видалити пункт "test task" з серверу. Після натискання на кнопку <strong>"delete"</strong>, сервер повертає код 200. 
+
+```
+HTTP 200 OK - це статус відповіді, який позначає успішну операцію. Це означає, що запит був успішно оброблений.
+```
+
+![Зображення](https://github.com/TangiresH/frontend-kpi/blob/main/10-REST-HTTP/screenshots/image8.png)
+
+![Зображення](https://github.com/TangiresH/frontend-kpi/blob/main/10-REST-HTTP/screenshots/image9.png)
