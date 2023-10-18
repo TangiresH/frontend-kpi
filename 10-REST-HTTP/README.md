@@ -16,3 +16,20 @@
 
 ____
 
+<h3>Приклад роботи.</h3>
+
+1. Для прикладу додам пункт з "test task". 
+
+![Зображення](https://github.com/TangiresH/frontend-kpi/blob/main/10-REST-HTTP/screenshots/image1.png)
+
+![Зображення](https://github.com/TangiresH/frontend-kpi/blob/main/10-REST-HTTP/screenshots/image2.png)
+
+2. Щоб закріпити будь-який з пунктів - слід просто клікнути по ньому. Після цього колір його заповнення стане зеленим. Це можна робити одразу з декількома пунктами. Також коли рухати курсором, то кожний пункт виділяється рожевим кольором. 
+
+![Зображення](https://github.com/TangiresH/frontend-kpi/blob/main/10-REST-HTTP/screenshots/image3.png)
+
+![Зображення](https://github.com/TangiresH/frontend-kpi/blob/main/10-REST-HTTP/screenshots/image4.png)
+
+Якщо повторно клікнути по будь-якому з пунктів, підкреслення зеленим кольором зникне.
+
+![Зображення](https://github.com/TangiresH/frontend-kpi/blob/main/10-REST-HTTP/screenshots/image5.png)
