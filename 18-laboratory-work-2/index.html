@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        table {
+            width: 1200px;
+            border-collapse: separate;
+            margin: 50px auto;
+            border: 2px solid black;
+            font-size: 28px;
+            table-layout: fixed;
+        }
+        td {
+            padding: 20px;
+            text-align: center;
+            border: 2px solid black;
+        }
+        tr {
+            height: 80px;
+        }
+        tr:first-child {
+            background-color: #108f8f;
+        }
+        tr:first-child:hover td {
+            background-color: #f5f510;
+            color: #6B5114;
+        }
+        tr:nth-child(2) {
+            background-color: #f5f510;
+            color: #6B5114;
+        }
+        tr:nth-child(2):hover td {
+            background-color: #108f8f;
+            color: #000000;
+        }
+
+    </style>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="task-table">
+    <table>
+        <tr class="first-row">
+            <td colspan="1"></td>
+            <td colspan="1"></td>
+            <td colspan="2" rowspan="2">Mudryk</td>
+            <td colspan="2">Dmytro</td>
+            <td colspan="2" rowspan="2">Petrovich</td>
+        </tr>
+        <tr class="second-row">
+            <td colspan="2">IM-13</td>
+            <td colspan="2">ЛР-2 Варіант 10</td>
+        </tr>
+        <tr class="third-row">
+            <td colspan="2"></td>
+            <td colspan="6"></td>
+        </tr>
+    </table>
+</div>
+
+<div class="task-image-position">
+    <div class="version-position">
+        <div class="big-circle-position"></div>
+        <div class="small-circle-position"></div>
+        <div class="small-circle-position"></div>
+        <div class="small-circle-position"></div>
+        <div class="small-circle-position"></div>
+        <div class="small-circle-position"></div>
+        <div class="small-circle-position"></div>
+        <div class="small-circle-position"></div>
+        <div class="small-circle-position"></div>
+        <div class="central-circle-position"></div>
+    </div>
+
+    <div class="version-transform">
+        <div class="big-circle-transform">
+            <div class="small-circle-transform"></div>
+            <div class="small-circle-transform"></div>
+            <div class="small-circle-transform"></div>
+            <div class="small-circle-transform"></div>
+            <div class="small-circle-transform"></div>
+            <div class="small-circle-transform"></div>
+            <div class="small-circle-transform"></div>
+            <div class="small-circle-transform"></div>
+            <div class="central-circle-transform"></div>
+        </div>
+    </div>
+</div>
+
+
+</body>
+</html>
