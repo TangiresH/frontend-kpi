@@ -38,3 +38,28 @@ https://62054479161670001741b708.mockapi.io/api/contacts
 
 ___
 
+## Приклад роботи.
+
+Список контактів на сервері. 
+
+![Зображення](https://github.com/TangiresH/frontend-kpi/blob/main/11-REST-OPTIMISTIC%20UI/screenshots/image1.png)
+
+Тепер для тестування додам контакт з даними: Test1, Test2. 123123.
+
+![Зображення](https://github.com/TangiresH/frontend-kpi/blob/main/11-REST-OPTIMISTIC%20UI/screenshots/image2.png)
+
+Додав контакт.
+
+![Зображення](https://github.com/TangiresH/frontend-kpi/blob/main/11-REST-OPTIMISTIC%20UI/screenshots/image3.png)
+
+Тепер перегляну, чи додались дані контакту на сервер: 
+
+![Зображення](https://github.com/TangiresH/frontend-kpi/blob/main/11-REST-OPTIMISTIC%20UI/screenshots/image4.png)
+
+Так, контакт додався з id:9.
+
+### Валідація.
+
+Контакт не буде додано, якщо інпути пусті, або в інпут з номером введені не цифри. 
+
+![Зображення](https://github.com/TangiresH/frontend-kpi/blob/main/11-REST-OPTIMISTIC%20UI/screenshots/image5.png)
