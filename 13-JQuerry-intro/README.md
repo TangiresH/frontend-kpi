@@ -13,3 +13,19 @@
 Користувач може видаляти будь-яку нотатку, видаляємо її на інтерфейсі та на сервері.
 
 ___
+
+# Робота коду. 
+
+Ось так виглядає сторінка зі стікерами, які можна додавати, видаляти і змінювати. 
+
+![Зображення](https://github.com/TangiresH/frontend-kpi/blob/main/13-JQuerry-intro/screenshots/image1.png)
+
+Тепер відредагую якийсь зі стікерів. Для цього просто потрібно клікнути на той, який вам потрібний. 
+
+![Зображення](https://github.com/TangiresH/frontend-kpi/blob/main/13-JQuerry-intro/screenshots/image2.png)
+
+Якщо натиснути на кнопку "Add note", то створиться новий стікер. 
+
+![Зображення](https://github.com/TangiresH/frontend-kpi/blob/main/13-JQuerry-intro/screenshots/image4-button.png)
+
+![Зображення](https://github.com/TangiresH/frontend-kpi/blob/main/13-JQuerry-intro/screenshots/image3.png)
