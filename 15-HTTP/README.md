@@ -29,3 +29,24 @@ ___
 
 ### Запуск
 
+1. Клонуєте мій репозиторій. 
+```
+https://github.com/TangiresH/frontend-kpi/
+```
+2. Далі переходите в директорію WebSocket-server-chat.
+```
+cd 15-HTTP/websocket-server-chat/
+```
+3. Скачуєте всі залежності.
+
+```
+npm install
+```
+
+4. Тоді запускаєте сервер. 
+
+```
+npm run start
+```
+
+___
